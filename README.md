@@ -2,7 +2,7 @@
 
 ### About Project:
 
-#### "A React app that sends selected data to a backend server and fetch the saved data using React Redux toolkit utilizing side Effects, Async tasks & Redux.
+#### A React app that sends selected data to a backend server and fetch the saved data using React Redux toolkit utilizing side Effects, Async tasks & Redux.
 
 #### Made with:
 
